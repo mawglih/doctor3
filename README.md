@@ -13,4 +13,4 @@ Running `grunt test` will run the unit tests with karma.
 
 ## Access webpage
 
-<a href="app/index.html">Doctor Website</a>
+<a href="https://mawglih.github.io/doctor3/app/index.html">Doctor Website</a>
